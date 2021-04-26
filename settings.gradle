@@ -1,0 +1,3 @@
+include ':app1'
+include ':app'
+rootProject.name = "UBookRS"
